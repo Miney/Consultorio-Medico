@@ -1,0 +1,117 @@
+# depslib dependency file v1.0
+1361644039 source:c:\users\yasmin\desktop\poo\consultoriomedico\shell.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<assert.h>
+	"sqlite3.h"
+	<ctype.h>
+	<stdarg.h>
+	<signal.h>
+	<pwd.h>
+	<unistd.h>
+	<sys/types.h>
+	<editline/editline.h>
+	<readline/readline.h>
+	<readline/history.h>
+	<io.h>
+	<sys/time.h>
+	<sys/resource.h>
+	<windows.h>
+
+1357735912 c:\users\yasmin\desktop\poo\consultoriomedico\sqlite3.h
+	<stdarg.h>
+
+1361644039 source:c:\users\yasmin\desktop\poo\consultoriomedico\sqlite3.c
+	"config.h"
+	<stdint.h>
+	<inttypes.h>
+	<tcl.h>
+	<stdarg.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stddef.h>
+	<windows.h>
+	<ctype.h>
+	<time.h>
+	<sys/sysctl.h>
+	<malloc/malloc.h>
+	<libkern/OSAtomic.h>
+	<malloc.h>
+	<pthread.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<sys/mman.h>
+	<sys/ioctl.h>
+	<semaphore.h>
+	<limits.h>
+	<sys/file.h>
+	<sys/param.h>
+	<sys/mount.h>
+	<utime.h>
+	<sys/dcmd_blk.h>
+	<sys/statvfs.h>
+	<dlfcn.h>
+	<sys/cygwin.h>
+	"sqlite3rtree.h"
+	<unicode/utypes.h>
+	<unicode/uregex.h>
+	<unicode/ustring.h>
+	<unicode/ucol.h>
+	<unicode/ubrk.h>
+	<unicode/utf16.h>
+
+1361719684 source:c:\users\yasmin\desktop\poo\consultoriomedico\visual.cpp
+	"Visual.h"
+	<iostream>
+
+1361720761 c:\users\yasmin\desktop\poo\consultoriomedico\visual.h
+
+1361676680 source:c:\users\yasmin\desktop\poo\consultoriomedico\main.cpp
+	"Consultorio.h"
+
+1361833749 source:c:\users\yasmin\desktop\poo\consultoriomedico\consultorio.cpp
+	"Consultorio.h"
+	<iostream>
+
+1361836166 c:\users\yasmin\desktop\poo\consultoriomedico\consultorio.h
+	"ComunicadorBD.h"
+	"Visual.h"
+
+1361836023 c:\users\yasmin\desktop\poo\consultoriomedico\consulta.h
+	<string>
+	"Medico.h"
+	"Paciente.h"
+
+1361836061 c:\users\yasmin\desktop\poo\consultoriomedico\medico.h
+	<string>
+	<iostream>
+
+1361715645 c:\users\yasmin\desktop\poo\consultoriomedico\paciente.h
+	<string>
+	<iostream>
+
+1361715643 source:c:\users\yasmin\desktop\poo\consultoriomedico\paciente.cpp
+	"Paciente.h"
+
+1361834276 source:c:\users\yasmin\desktop\poo\consultoriomedico\medico.cpp
+	"Medico.h"
+
+1361719424 source:c:\users\yasmin\desktop\poo\consultoriomedico\comunicadorbd.cpp
+	"ComunicadorBD.h"
+
+1361719453 c:\users\yasmin\desktop\poo\consultoriomedico\comunicadorbd.h
+	"Consulta.h"
+	<string>
+	"sqlite3.h"
+
+1361834961 source:c:\users\yasmin\desktop\poo\consultoriomedico\consulta.cpp
+	"Consulta.h"
+
